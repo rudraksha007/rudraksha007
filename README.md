@@ -61,10 +61,10 @@ I'm currently pursuing a **B.Tech in Computer Science and Engineering** at **Lov
       <strong>Email</strong>
     </td>
     <td style="text-align: center;">
-      <a href="https://discord.com/users/yourdiscordid">
+      <a href="https://discord.com/users/rudraksha007">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-discord-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1581238.png?f=webp&w=256" alt="Discord" width="80"/>
       </a><br />
-      <strong>Discord</strong>
+      <strong>@rudraksha007</strong>
     </td>
   </tr>
 </table>
